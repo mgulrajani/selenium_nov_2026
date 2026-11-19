@@ -1,0 +1,46 @@
+2026-11-17 10:02:40 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 10:02:40 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 10:02:40 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 10:02:40 INFO  com.itm.pages.InventoryPage - Adding backpack to cart
+2026-11-17 10:02:53 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 10:02:53 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 10:02:53 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 10:02:53 INFO  com.itm.pages.InventoryPage - Adding backpack to cart
+2026-11-17 10:03:01 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 10:03:01 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 10:03:01 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 10:03:01 INFO  com.itm.pages.InventoryPage - Adding backpack to cart
+2026-11-17 14:20:34 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 14:20:34 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 14:20:34 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 14:21:34 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 14:21:34 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 14:21:35 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 14:22:11 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 14:27:17 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 14:27:18 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 14:27:18 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 14:28:25 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 14:28:25 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 14:28:25 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 15:09:21 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 15:09:21 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 15:09:21 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 15:35:35 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 15:35:35 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 15:35:35 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 15:44:02 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 15:44:03 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 15:44:03 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 15:47:18 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 15:47:18 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 15:47:19 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 15:49:52 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 15:49:52 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 15:49:52 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 15:51:48 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 15:51:48 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 15:51:48 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-17 15:53:40 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-17 15:53:40 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-17 15:53:40 INFO  com.itm.pages.LoginPage - Clicking login button
