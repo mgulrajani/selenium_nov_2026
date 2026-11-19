@@ -44,3 +44,12 @@
 2026-11-17 15:53:40 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
 2026-11-17 15:53:40 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
 2026-11-17 15:53:40 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-19 09:58:14 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-19 09:58:14 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-19 09:58:14 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-19 09:58:14 INFO  com.itm.pages.InventoryPage - Adding backpack to cart
+2026-11-19 09:58:14 INFO  com.itm.pages.InventoryPage - Backpack added to cart
+2026-11-19 09:58:21 INFO  com.itm.pages.LoginPage - Logging in with user: standard_user
+2026-11-19 09:58:21 INFO  com.itm.pages.LoginPage - Entering password: secret_sauce
+2026-11-19 09:58:21 INFO  com.itm.pages.LoginPage - Clicking login button
+2026-11-19 09:58:21 INFO  com.itm.pages.InventoryPage - Adding backpack to cart

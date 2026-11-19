@@ -3,7 +3,9 @@ package com.itm;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-public class GoogleTest {
+import com.itm.base.BaseTest;
+
+public class GoogleTest extends BaseTest{
 @Test 
 public void testGoogleSearch() {
     System.out.println("This is a test for Google search.");
